@@ -18,6 +18,7 @@ body {
 main {
     height: 90vh;
 }
+
 #index__main {
     overflow: hidden;
     display: flex;
